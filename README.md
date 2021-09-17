@@ -6,7 +6,7 @@ the python venv modules that allows to create, activate, list
 and delete virtual environments in a local working directory.
 
 To install the script, clone the repo and run `install.sh` (no sudo)
-After that, run
+After that, source your bashrc and run
     
     pyvenv help
 
