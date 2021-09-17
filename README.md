@@ -14,4 +14,8 @@ to know how to use the tool.
 
 ## Requirements
 
-* bash >= 5.1
+* bash
+
+* fzf
+
+* pip
